@@ -1,0 +1,6 @@
+# ignore files
+.externalToolBuilders
+.settings
+build
+.classpath
+.project
